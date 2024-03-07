@@ -165,3 +165,12 @@ main section {
    text-align: center;
    margin-top: 50px;
 }
+
+/* footer styles  */
+footer{
+   display: flex;
+   background: #fff8f3;
+   margin-top: 100px;
+   padding: 150px 200px ;
+
+}
